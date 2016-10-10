@@ -1,0 +1,3 @@
+class Groop < ActiveRecord::Base
+  belongs_to :user
+end
